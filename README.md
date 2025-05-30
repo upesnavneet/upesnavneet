@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" alt="banner" />
+  ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 </p>
 
 <h1 align="center">Hi, I'm Navneet Kumar</h1>
