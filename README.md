@@ -1,5 +1,5 @@
 <p align="center">
-  ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTEwMDFsaWp4eG90M2sxZjNrZjZ0NmhsOHp6aW05NXg3dDliYmZjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" alt="animated banner" />
 </p>
 
 <h1 align="center">Hi, I'm Navneet Kumar</h1>
